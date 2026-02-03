@@ -1,5 +1,5 @@
 # OOPs_2
-day 2 internship
+day 2 internship-02/02/26
 
 This project is a simple Python program that simulates basic Instagram Reel features using Object-Oriented Programming (OOP). It demonstrates how to create a class with attributes like title, description, creator name, location, likes, and comments, and how to manipulate them using class methods.
 
